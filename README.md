@@ -1,0 +1,2 @@
+# tensorflow-practices
+Learning tensorflow
